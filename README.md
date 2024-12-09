@@ -6,3 +6,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 Email: user@nextmail.com
 Password: 123456
+
+https://nextjs-vercel-three-roan.vercel.app/dashboard
